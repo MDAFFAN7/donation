@@ -3,15 +3,12 @@ body {
     background-image: url(images/donation13.jpg);
     background-size: contain;
     background-repeat: no-repeat;
-
 }
 
 #heading {
     margin-top: 100px;
     font-size: 1cm;
     color: white;
-
-
 }
 
 #small-talk {
@@ -103,4 +100,34 @@ body {
 #plans{
     margin-top: 150px;
     font-size: 1cm;   
+}
+.donation-container{
+    display: flex;
+    margin-top: 50px;
+}
+.container{
+    height: 250px;
+    width: 300px;
+}
+.first{
+    background-color: rgb(180, 238, 218);
+    margin-left: 210px;
+    border-radius: 5px;
+}
+.second{
+    background-color: rgb(236, 197, 236);
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.third{
+    background-color: rgb(235, 200, 134);
+    margin-left: 10px;
+    border-radius: 5px;
+}
+.icon{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.text{
+    margin-left: 10px;
 }
