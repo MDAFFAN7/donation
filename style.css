@@ -100,3 +100,7 @@ body {
     display: inline-block;
     color: gray;
 }
+#plans{
+    margin-top: 150px;
+    font-size: 1cm;
+}
