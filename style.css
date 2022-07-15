@@ -131,3 +131,16 @@ body {
 .text{
     margin-left: 10px;
 }
+.flex{
+    display: flex;
+    margin-top: 200px;
+}
+.big{
+    font-size: 1cm;
+    margin-top: 100px;
+    margin-right: 40px;
+}
+.half-width{
+    margin-left: 210px;
+}
+
