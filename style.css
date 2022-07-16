@@ -156,11 +156,42 @@ body {
     color: red;
 }
 .cont{
-    height: 200px;
+    height: 150px;
     width: 700px;
 }
 .oone{
     background-color: bisque;
     margin-left: 300px;
 }
-
+.imp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.imp .divi{
+    height: 40px;
+    width: 400px;
+    margin-top: 55px;
+}
+.hard{
+    display: flex;
+}
+.marginleft{
+    margin-left: 10px;
+}    
+.box1{
+    height: 40px;
+    width: 250px;
+}
+.on1{
+    background-color: gainsboro;
+    color: gray;
+}
+.box2{
+    height: 40px;
+    width: 150px;
+}
+.tw2{
+    background-color: red;
+    color: white;
+}
