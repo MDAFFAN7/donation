@@ -146,7 +146,21 @@ body {
 .half-width2{
     margin-left: 20px;
 }
+#a-fix{
+    margin-left: 470px;
+}
+#fixing{
+    margin-left: 510px;
+}
 .text-color{
     color: red;
+}
+.cont{
+    height: 200px;
+    width: 700px;
+}
+.oone{
+    background-color: bisque;
+    margin-left: 300px;
 }
 
